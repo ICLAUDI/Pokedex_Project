@@ -1,0 +1,4 @@
+com\example\pokemon\controller\PokemonController.class
+com\example\pokemon\PokemonApiApplication.class
+com\example\pokemon\model\Pokemon.class
+com\example\pokemon\repository\PokemonRepository.class
